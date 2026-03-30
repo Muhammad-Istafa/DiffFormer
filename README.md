@@ -33,7 +33,34 @@ The DSST model demonstrated strong performance on both datasets:
 *   **Test Accuracy**: Approximately 94.78%
 *   **Test Loss**: Approximately 0.1539
 
-Detailed classification reports and confusion matrices for both datasets are generated during the training process, providing per-class precision, recall, and F1-scores.
+## Visualizations
+## Performance Comparison:
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7fea06aa-1dbd-4cee-a589-12ee10ed5d0b" />
+
+
+
+## PaviaU Classification Results:
+
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/394efa5d-9857-4230-a85a-100747dc213e" />
+
+## Confusion Matrix: PaviaU Confusion Matrix
+
+<img width="1800" height="1200" alt="image" src="https://github.com/user-attachments/assets/5077c739-d8c9-4dc8-9df7-fb53006fbe5b" />
+
+## Classification Map: PaviaU Classification Map
+
+
+
+## HanChuan Classification Results:
+
+<img width="1200" height="1000" alt="image" src="https://github.com/user-attachments/assets/e65f83d2-6f72-43df-96b0-d81ee65b8305" />
+
+## Confusion Matrix: HanChuan Confusion Matrix
+
+<img width="2200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c76f4a9f-bfd0-4cc5-b7ae-f946ea81617a" />
+
+## Classification Map: HanChuan Classification Map
+
 
 ## How to Run the Project
 
